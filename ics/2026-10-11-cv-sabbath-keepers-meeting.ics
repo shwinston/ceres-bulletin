@@ -21,9 +21,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ceres-2026-10-11-4@ceresadventist.org
+UID:ceres-2026-cvskm@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:CV Sabbath Keepers Ministry Meeting 9am in the Youth Room
+SUMMARY:CV Sabbath Keepers Ministry Meeting (Youth Room)
 DTSTART;TZID=America/Los_Angeles:20261011T090000
 DTEND;TZID=America/Los_Angeles:20261011T100000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307

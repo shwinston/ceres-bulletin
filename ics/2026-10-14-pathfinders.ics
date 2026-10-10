@@ -21,9 +21,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ceres-2026-10-14-5@ceresadventist.org
+UID:ceres-2026-pf14@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Pathfinders Meeting 6-8pm in the Fellowship Hall
+SUMMARY:Pathfinders Meeting (Fellowship Hall)
 DTSTART;TZID=America/Los_Angeles:20261014T180000
 DTEND;TZID=America/Los_Angeles:20261014T200000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307

@@ -23,31 +23,33 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ceres-2026-10-10-0@ceresadventist.org
+UID:ceres-2026-youth@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Youth Sabbath\, Guest Speaker Tyler Mulligan
+SUMMARY:Youth Sabbath – Guest Speaker Tyler Mulligan
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261010T123000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-10-1@ceresadventist.org
+UID:ceres-2026-potluck@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Monthly Fellowship Potluck
+SUMMARY:Monthly Fellowship Potluck (Italian Themed)
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:After the service. Bring your favorite Italian dish to share. Also a time to recognize our elders.
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-10-2@ceresadventist.org
+UID:ceres-2026-millie@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:A Time Of Remembrance of Millie Brown\, Informal Gathering @ 3:00pm in the Fellowship Hall
+SUMMARY:A Time of Remembrance of Millie Brown
 DTSTART;TZID=America/Los_Angeles:20261010T150000
 DTEND;TZID=America/Los_Angeles:20261010T160000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Informal gathering in the Fellowship Hall.
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-10-3@ceresadventist.org
+UID:ceres-2026-cvsk@ceresadventist.org
 DTSTAMP:20261010T120000Z
 SUMMARY:CV Sabbath Keepers @ Waterford Church for Service
 DTSTART;VALUE=DATE:20261010
@@ -55,131 +57,136 @@ DTEND;VALUE=DATE:20261011
 LOCATION:Waterford Church
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-11-4@ceresadventist.org
+UID:ceres-2026-cvskm@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:CV Sabbath Keepers Ministry Meeting 9am in the Youth Room
+SUMMARY:CV Sabbath Keepers Ministry Meeting (Youth Room)
 DTSTART;TZID=America/Los_Angeles:20261011T090000
 DTEND;TZID=America/Los_Angeles:20261011T100000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-14-5@ceresadventist.org
+UID:ceres-2026-pf14@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Pathfinders Meeting 6-8pm in the Fellowship Hall
+SUMMARY:Pathfinders Meeting (Fellowship Hall)
 DTSTART;TZID=America/Los_Angeles:20261014T180000
 DTEND;TZID=America/Los_Angeles:20261014T200000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-15-6@ceresadventist.org
+UID:ceres-2026-cs15@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Community Service Food/Clothes Dist 8:30-10:30am
+SUMMARY:Community Service Food/Clothes Distribution
 DTSTART;TZID=America/Los_Angeles:20261015T083000
 DTEND;TZID=America/Los_Angeles:20261015T103000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-16-7@ceresadventist.org
+UID:ceres-2026-camp@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Ceres Church Camp Retreat @ Camp Wawona Starts
+SUMMARY:Ceres Church Camp Retreat @ Camp Wawona
 DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-LOCATION:Camp Wawona
-END:VEVENT
-BEGIN:VEVENT
-UID:ceres-2026-10-17-8@ceresadventist.org
-DTSTAMP:20261010T120000Z
-SUMMARY:Adventurers Meeting 2-4pm in the Fireside Hall
-DTSTART;TZID=America/Los_Angeles:20261017T140000
-DTEND;TZID=America/Los_Angeles:20261017T160000
-LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
-END:VEVENT
-BEGIN:VEVENT
-UID:ceres-2026-10-18-9@ceresadventist.org
-DTSTAMP:20261010T120000Z
-SUMMARY:Ceres Church Camp Retreat @ Camp Wawona Ends
-DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 LOCATION:Camp Wawona
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-19-10@ceresadventist.org
+UID:ceres-2026-adv17@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Elders Meeting @ 6pm
+SUMMARY:Adventurers Meeting (Fireside Hall)
+DTSTART;TZID=America/Los_Angeles:20261017T140000
+DTEND;TZID=America/Los_Angeles:20261017T160000
+LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:The Adventurer Club (ages 4–9). Contact: Lily 559-835-1722.
+END:VEVENT
+BEGIN:VEVENT
+UID:ceres-2026-elders@ceresadventist.org
+DTSTAMP:20261010T120000Z
+SUMMARY:Elders Meeting
 DTSTART;TZID=America/Los_Angeles:20261019T180000
 DTEND;TZID=America/Los_Angeles:20261019T190000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-19-11@ceresadventist.org
+UID:ceres-2026-board@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Church Board Meeting @ 7pm in the Fellowship Hall
+SUMMARY:Church Board Meeting (Fellowship Hall)
 DTSTART;TZID=America/Los_Angeles:20261019T190000
 DTEND;TZID=America/Los_Angeles:20261019T200000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-20-12@ceresadventist.org
+UID:ceres-2026-sh20@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Second Harvest Food Dist 10-11am in the Parking Lot
+SUMMARY:Second Harvest Food Distribution (Parking Lot)
 DTSTART;TZID=America/Los_Angeles:20261020T100000
 DTEND;TZID=America/Los_Angeles:20261020T110000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-21-13@ceresadventist.org
+UID:ceres-2026-pf21@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Pathfinders Meeting 6-8pm in the Fellowship Hall
+SUMMARY:Pathfinders Meeting (Fellowship Hall)
 DTSTART;TZID=America/Los_Angeles:20261021T180000
 DTEND;TZID=America/Los_Angeles:20261021T200000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-24-14@ceresadventist.org
+UID:ceres-2026-creation@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Creation Sabbath 11am Service/ Hike & Picnic After Service
+SUMMARY:Creation Sabbath – Worship Service
 DTSTART;TZID=America/Los_Angeles:20261024T110000
 DTEND;TZID=America/Los_Angeles:20261024T123000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Creation Sabbath: God’s Vivid World. Picnic & hike after church at Dos Rios State Park.
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-25-15@ceresadventist.org
+UID:ceres-2026-hike@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Ceres Church Card Making Class 10am-12pm
+SUMMARY:Creation Sabbath Picnic & Hike (after church)
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+LOCATION:Dos Rios State Park\, 3559 Shiloh Road\, Modesto\, CA
+DESCRIPTION:After church. Bring a sack lunch and water for your family\; if you can\, bring an extra lunch for a visitor. Short or long hikes. Restrooms available.
+END:VEVENT
+BEGIN:VEVENT
+UID:ceres-2026-card@ceresadventist.org
+DTSTAMP:20261010T120000Z
+SUMMARY:Ceres Church Card Making Class
 DTSTART;TZID=America/Los_Angeles:20261025T100000
 DTEND;TZID=America/Los_Angeles:20261025T120000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-28-16@ceresadventist.org
+UID:ceres-2026-lunch@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Lunch with the Doctor 10:15am in the Fellowship Hall
+SUMMARY:Lunch with the Doctor – Dr. Ed Holm (protein)
 DTSTART;TZID=America/Los_Angeles:20261028T101500
 DTEND;TZID=America/Los_Angeles:20261028T121500
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Presentation by Dr. Ed Holm in the Fellowship Hall\; lunch served after. RSVP 209-538-1024.
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-28-17@ceresadventist.org
+UID:ceres-2026-pf28@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Pathfinders Meeting 6-8pm in the Fellowship Hall
+SUMMARY:Pathfinders Meeting (Fellowship Hall)
 DTSTART;TZID=America/Los_Angeles:20261028T180000
 DTEND;TZID=America/Los_Angeles:20261028T200000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-31-18@ceresadventist.org
+UID:ceres-2026-advind@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Adventurers Induction Ceremony 2-4pm
+SUMMARY:Adventurers Induction Ceremony
 DTSTART;TZID=America/Los_Angeles:20261031T140000
 DTEND;TZID=America/Los_Angeles:20261031T160000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
 END:VEVENT
 BEGIN:VEVENT
-UID:ceres-2026-10-31-19@ceresadventist.org
+UID:ceres-2026-bonfire@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Social Committee Bonfire Potluck & Vespers @ 4pm
+SUMMARY:Social Committee Bonfire Potluck & Vespers
 DTSTART;TZID=America/Los_Angeles:20261031T160000
 DTEND;TZID=America/Los_Angeles:20261031T180000
 LOCATION:Hilde Homestead\, 4955 Avenida Lugo N\, La Grange\, CA 95329
+DESCRIPTION:Bring an entrée and dessert or drink to share\, plus a camping chair or blanket. No kitchen for food prep. Kids: bring a flashlight for a treasure hunt after vespers!
 END:VEVENT
 END:VCALENDAR

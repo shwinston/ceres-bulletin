@@ -21,12 +21,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ceres-2026-10-28-c0Add@ceresadventist.org
+UID:ceres-2026-lunch@ceresadventist.org
 DTSTAMP:20261010T120000Z
 SUMMARY:Lunch with the Doctor – Dr. Ed Holm (protein)
 DTSTART;TZID=America/Los_Angeles:20261028T101500
 DTEND;TZID=America/Los_Angeles:20261028T121500
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
-DESCRIPTION:Presentation by Dr. Ed Holm\; lunch served after. RSVP 209-538-1024.
+DESCRIPTION:Presentation by Dr. Ed Holm in the Fellowship Hall\; lunch served after. RSVP 209-538-1024.
 END:VEVENT
 END:VCALENDAR

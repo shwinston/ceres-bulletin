@@ -21,11 +21,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ceres-2026-10-10-2@ceresadventist.org
+UID:ceres-2026-millie@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:A Time Of Remembrance of Millie Brown\, Informal Gathering @ 3:00pm in the Fellowship Hall
+SUMMARY:A Time of Remembrance of Millie Brown
 DTSTART;TZID=America/Los_Angeles:20261010T150000
 DTEND;TZID=America/Los_Angeles:20261010T160000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Informal gathering in the Fellowship Hall.
 END:VEVENT
 END:VCALENDAR

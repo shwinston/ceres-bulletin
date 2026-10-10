@@ -21,9 +21,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ceres-2026-10-31-18@ceresadventist.org
+UID:ceres-2026-advind@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Adventurers Induction Ceremony 2-4pm
+SUMMARY:Adventurers Induction Ceremony
 DTSTART;TZID=America/Los_Angeles:20261031T140000
 DTEND;TZID=America/Los_Angeles:20261031T160000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307

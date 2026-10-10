@@ -21,9 +21,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ceres-2026-10-20-12@ceresadventist.org
+UID:ceres-2026-sh20@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Second Harvest Food Dist 10-11am in the Parking Lot
+SUMMARY:Second Harvest Food Distribution (Parking Lot)
 DTSTART;TZID=America/Los_Angeles:20261020T100000
 DTEND;TZID=America/Los_Angeles:20261020T110000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307

@@ -21,9 +21,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ceres-2026-10-15-6@ceresadventist.org
+UID:ceres-2026-cs15@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Community Service Food/Clothes Dist 8:30-10:30am
+SUMMARY:Community Service Food/Clothes Distribution
 DTSTART;TZID=America/Los_Angeles:20261015T083000
 DTEND;TZID=America/Los_Angeles:20261015T103000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307

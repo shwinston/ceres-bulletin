@@ -21,12 +21,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ceres-2026-10-31-c0Add@ceresadventist.org
+UID:ceres-2026-bonfire@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Bonfire Potluck & Vespers
+SUMMARY:Social Committee Bonfire Potluck & Vespers
 DTSTART;TZID=America/Los_Angeles:20261031T160000
 DTEND;TZID=America/Los_Angeles:20261031T180000
 LOCATION:Hilde Homestead\, 4955 Avenida Lugo N\, La Grange\, CA 95329
-DESCRIPTION:Bring an entrée and dessert or drink to share\, plus a camping chair or blanket. Kids: bring a flashlight for a treasure hunt after vespers!
+DESCRIPTION:Bring an entrée and dessert or drink to share\, plus a camping chair or blanket. No kitchen for food prep. Kids: bring a flashlight for a treasure hunt after vespers!
 END:VEVENT
 END:VCALENDAR

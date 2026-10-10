@@ -21,9 +21,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ceres-2026-10-25-15@ceresadventist.org
+UID:ceres-2026-card@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Ceres Church Card Making Class 10am-12pm
+SUMMARY:Ceres Church Card Making Class
 DTSTART;TZID=America/Los_Angeles:20261025T100000
 DTEND;TZID=America/Los_Angeles:20261025T120000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307

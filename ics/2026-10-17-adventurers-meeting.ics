@@ -21,11 +21,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ceres-2026-10-17-8@ceresadventist.org
+UID:ceres-2026-adv17@ceresadventist.org
 DTSTAMP:20261010T120000Z
-SUMMARY:Adventurers Meeting 2-4pm in the Fireside Hall
+SUMMARY:Adventurers Meeting (Fireside Hall)
 DTSTART;TZID=America/Los_Angeles:20261017T140000
 DTEND;TZID=America/Los_Angeles:20261017T160000
 LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:The Adventurer Club (ages 4–9). Contact: Lily 559-835-1722.
 END:VEVENT
 END:VCALENDAR
