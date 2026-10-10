@@ -23,40 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ceres-2026-youth@ceresadventist.org
-DTSTAMP:20261010T120000Z
-SUMMARY:Youth Sabbath – Guest Speaker Tyler Mulligan
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T123000
-LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
-END:VEVENT
-BEGIN:VEVENT
-UID:ceres-2026-potluck@ceresadventist.org
-DTSTAMP:20261010T120000Z
-SUMMARY:Monthly Fellowship Potluck (Italian Themed)
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
-DESCRIPTION:After the service. Bring your favorite Italian dish to share. Also a time to recognize our elders.
-END:VEVENT
-BEGIN:VEVENT
-UID:ceres-2026-millie@ceresadventist.org
-DTSTAMP:20261010T120000Z
-SUMMARY:A Time of Remembrance of Millie Brown
-DTSTART;TZID=America/Los_Angeles:20261010T150000
-DTEND;TZID=America/Los_Angeles:20261010T160000
-LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
-DESCRIPTION:Informal gathering in the Fellowship Hall.
-END:VEVENT
-BEGIN:VEVENT
-UID:ceres-2026-cvsk@ceresadventist.org
-DTSTAMP:20261010T120000Z
-SUMMARY:CV Sabbath Keepers @ Waterford Church for Service
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-LOCATION:Waterford Church
-END:VEVENT
-BEGIN:VEVENT
 UID:ceres-2026-cvskm@ceresadventist.org
 DTSTAMP:20261010T120000Z
 SUMMARY:CV Sabbath Keepers Ministry Meeting (Youth Room)
