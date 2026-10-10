@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Church//Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ceres-2026-10-24-c1Pic@ceresadventist.org
+DTSTAMP:20261010T120000Z
+SUMMARY:Creation Sabbath Picnic & Hike (after church)
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+LOCATION:Dos Rios State Park\, 3559 Shiloh Road\, Modesto\, CA
+DESCRIPTION:After church. Bring a sack lunch and water for your family\; if you can\, bring an extra lunch for a visitor. Short or long hikes. Restrooms available.
+END:VEVENT
+END:VCALENDAR
