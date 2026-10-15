@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:camp-20261018@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Ceres Church Camp Retreat @ Camp Wawona Ends
+LOCATION:Camp Wawona
+DESCRIPTION:Ceres SDA Church bulletin\, Oct 17\, 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:elders-20261019@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261020T010000Z
+DTEND:20261020T020000Z
+SUMMARY:Elders Meeting
+LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:End time not listed.
+END:VEVENT
+BEGIN:VEVENT
+UID:board-20261019@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261020T020000Z
+DTEND:20261020T030000Z
+SUMMARY:Church Board Meeting
+LOCATION:Fellowship Hall\, Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:End time not listed.
+END:VEVENT
+BEGIN:VEVENT
+UID:harvest-20261020@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261020T170000Z
+DTEND:20261020T180000Z
+SUMMARY:Second Harvest Food Dist
+LOCATION:Parking Lot\, Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Ceres SDA Church bulletin\, Oct 17\, 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:path21-20261021@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261022T010000Z
+DTEND:20261022T030000Z
+SUMMARY:Pathfinders Meeting
+LOCATION:Fellowship Hall\, Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Ceres SDA Church bulletin\, Oct 17\, 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:chiburis-20261021@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261021T200000Z
+DTEND:20261021T210000Z
+SUMMARY:Internment of Bill Chiburis
+LOCATION:San Joaquin Valley National Cemetery\, Santa Nella\, CA
+DESCRIPTION:Internment for Bill Chiburis. End time not listed.
+END:VEVENT
+BEGIN:VEVENT
+UID:preview-20261023@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261023T160000Z
+DTEND:20261023T191500Z
+SUMMARY:CVCA Academy Preview Day
+LOCATION:Central Valley Christian Academy
+DESCRIPTION:Ceres SDA Church bulletin\, Oct 17\, 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:creation-20261024@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:Creation Sabbath
+LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:11am service\, then hike & picnic at Dos Rios State Park (turn off around 3561 Shiloh Rd\, Modesto). End time not listed.
+END:VEVENT
+BEGIN:VEVENT
+UID:cards-20261025@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+SUMMARY:Ceres Church Card Making Class
+LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Ceres SDA Church bulletin\, Oct 17\, 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:doctor-20261028@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261028T171500Z
+DTEND:20261028T191500Z
+SUMMARY:Lunch with the Doctor
+LOCATION:Fellowship Hall\, Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Protein presentation by Dr. Ed Holm\; lunch served after. RSVP 209-538-1024. End time not listed.
+END:VEVENT
+BEGIN:VEVENT
+UID:path28-20261028@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261029T010000Z
+DTEND:20261029T030000Z
+SUMMARY:Pathfinders Meeting
+LOCATION:Fellowship Hall\, Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Ceres SDA Church bulletin\, Oct 17\, 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:adventurers-20261031@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+SUMMARY:Adventurers Induction Ceremony
+LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Ceres SDA Church bulletin\, Oct 17\, 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bonfire-20261031@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Social Committee Bonfire Potluck & Vespers
+LOCATION:Hilde Homestead\, 4955 Avenida Lugo N\, La Grange\, CA 95329
+DESCRIPTION:Bring an entrée and dessert or drink to share\, plus a camping chair or blanket. Kids: bring a flashlight. End time not listed.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:creation-20261024@ceres-bulletin
+DTSTAMP:20261015T224000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:Creation Sabbath
+LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:11am service\, then hike & picnic at Dos Rios State Park (turn off around 3561 Shiloh Rd\, Modesto). End time not listed.
+END:VEVENT
+END:VCALENDAR
