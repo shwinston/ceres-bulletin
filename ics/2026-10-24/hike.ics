@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:hike-20261024@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Creation Sabbath Hike & Picnic
+LOCATION:Dos Rios State Park\, 3559 Shiloh Road\, Modesto\, CA 95358
+DESCRIPTION:Right after church. Entrance on Shiloh Rd south of Paradise R
+ d (white fence\, black gate)\; continue to the end of the road and turn r
+ ight. Bring a change of clothes\, picnic lunch\, water bottle\, bug spray
+ \, sunscreen/hat\, binoculars. Exact start/end times not listed.
+END:VEVENT
+END:VCALENDAR

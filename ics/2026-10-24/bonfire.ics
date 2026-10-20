@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:bonfire-20261031@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Bonfire Potluck & Vespers
+LOCATION:Hilde Homestead\, 4955 Avenida Lugo N\, La Grange\, CA 95329
+DESCRIPTION:Social Committee event. Bring an entrée and dessert or drink
+  to share (ready to serve\, with a serving utensil\; no kitchen for prep)
+ \, plus a camping chair or blanket. Kids: bring a flashlight for a treasu
+ re hunt after vespers. End time not listed.
+END:VEVENT
+END:VCALENDAR

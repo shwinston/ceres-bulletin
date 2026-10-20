@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:hike-20261024@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Creation Sabbath Hike & Picnic
+LOCATION:Dos Rios State Park\, 3559 Shiloh Road\, Modesto\, CA 95358
+DESCRIPTION:Right after church. Entrance on Shiloh Rd south of Paradise R
+ d (white fence\, black gate)\; continue to the end of the road and turn r
+ ight. Bring a change of clothes\, picnic lunch\, water bottle\, bug spray
+ \, sunscreen/hat\, binoculars. Exact start/end times not listed.
+END:VEVENT
+BEGIN:VEVENT
+UID:cards-20261025@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+SUMMARY:Card Making Class
+DESCRIPTION:Ceres Church Card Making Class. Location not listed in the bu
+ lletin.
+END:VEVENT
+BEGIN:VEVENT
+UID:doctor-20261028@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261028T171500Z
+DTEND:20261028T191500Z
+SUMMARY:Lunch with the Doctor: Protein
+LOCATION:Fellowship Hall\, Ceres Seventh-day Adventist Church\, 1633 Nort
+ h Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Presentation by Dr. Ed Holm\; lunch served after. RSVP to the
+  church office: 209-538-1024. End time not listed.
+END:VEVENT
+BEGIN:VEVENT
+UID:path28-20261028@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261029T010000Z
+DTEND:20261029T030000Z
+SUMMARY:Pathfinders
+LOCATION:Fellowship Hall\, Ceres Seventh-day Adventist Church\, 1633 Nort
+ h Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Pathfinders meeting.
+END:VEVENT
+BEGIN:VEVENT
+UID:adventurers-20261031@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+SUMMARY:Adventurers Induction Ceremony
+DESCRIPTION:Location not listed in the bulletin.
+END:VEVENT
+BEGIN:VEVENT
+UID:bonfire-20261031@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Bonfire Potluck & Vespers
+LOCATION:Hilde Homestead\, 4955 Avenida Lugo N\, La Grange\, CA 95329
+DESCRIPTION:Social Committee event. Bring an entrée and dessert or drink
+  to share (ready to serve\, with a serving utensil\; no kitchen for prep)
+ \, plus a camping chair or blanket. Kids: bring a flashlight for a treasu
+ re hunt after vespers. End time not listed.
+END:VEVENT
+BEGIN:VEVENT
+UID:speed-20261107@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261107T220000Z
+DTEND:20261108T020000Z
+SUMMARY:Speed Fellowshipping (Singles)
+LOCATION:Mountain View Central SDA Church\, Mountain View\, CA
+DESCRIPTION:Central California Conference singles event\, ages 21–65+. 
+ Join the match list (free): form.jotform.com/261811339576059. Questions: 
+ text Karen 559-313-6319.
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-20261108@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261108T200000Z
+DTEND:20261108T230000Z
+SUMMARY:Apple Festival
+DESCRIPTION:Frozen apple pies\, cinnamon rolls\, apple sauce and apple ci
+ der. Pre-order: call Sharlyn 209-968-2270. Location not listed on the fly
+ er.
+END:VEVENT
+BEGIN:VEVENT
+UID:hymnsing-20261114@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:The Great Hymn Sing
+LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\,
+  Ceres\, CA 95307
+DESCRIPTION:CVCA Department of Music with the singers of CVCA and Resonar
+ e Spei Handbell Ensemble. Free and open to the public. End time not liste
+ d.
+END:VEVENT
+BEGIN:VEVENT
+UID:pure-20261114@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261115T030000Z
+DTEND:20261115T050000Z
+SUMMARY:Pure Imagination: CVCA Class of 2027 Talent Show
+LOCATION:Central Valley Christian Academy Gymnasium
+DESCRIPTION:Doors open 5:45pm\, show begins 7:00pm. Food and snacks for p
+ urchase\, silent auction\, bake sale. Proceeds benefit the Class of 2027.
+  End time not listed.
+END:VEVENT
+END:VCALENDAR

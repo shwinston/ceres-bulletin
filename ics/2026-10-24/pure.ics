@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:pure-20261114@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261115T030000Z
+DTEND:20261115T050000Z
+SUMMARY:Pure Imagination: CVCA Class of 2027 Talent Show
+LOCATION:Central Valley Christian Academy Gymnasium
+DESCRIPTION:Doors open 5:45pm\, show begins 7:00pm. Food and snacks for p
+ urchase\, silent auction\, bake sale. Proceeds benefit the Class of 2027.
+  End time not listed.
+END:VEVENT
+END:VCALENDAR

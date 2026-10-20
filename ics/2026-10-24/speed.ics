@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:speed-20261107@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261107T220000Z
+DTEND:20261108T020000Z
+SUMMARY:Speed Fellowshipping (Singles)
+LOCATION:Mountain View Central SDA Church\, Mountain View\, CA
+DESCRIPTION:Central California Conference singles event\, ages 21–65+. 
+ Join the match list (free): form.jotform.com/261811339576059. Questions: 
+ text Karen 559-313-6319.
+END:VEVENT
+END:VCALENDAR

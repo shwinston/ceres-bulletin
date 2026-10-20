@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:doctor-20261028@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261028T171500Z
+DTEND:20261028T191500Z
+SUMMARY:Lunch with the Doctor: Protein
+LOCATION:Fellowship Hall\, Ceres Seventh-day Adventist Church\, 1633 Nort
+ h Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Presentation by Dr. Ed Holm\; lunch served after. RSVP to the
+  church office: 209-538-1024. End time not listed.
+END:VEVENT
+END:VCALENDAR

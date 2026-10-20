@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:hymnsing-20261114@ceres-bulletin
+DTSTAMP:20261020T190000Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:The Great Hymn Sing
+LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\,
+  Ceres\, CA 95307
+DESCRIPTION:CVCA Department of Music with the singers of CVCA and Resonar
+ e Spei Handbell Ensemble. Free and open to the public. End time not liste
+ d.
+END:VEVENT
+END:VCALENDAR
