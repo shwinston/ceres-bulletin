@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:adventurers-20261031@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+SUMMARY:Adventurers Induction Ceremony
+DESCRIPTION:Location not listed in the bulletin.
+END:VEVENT
+BEGIN:VEVENT
+UID:bonfire-20261031@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Bonfire Potluck & Vespers
+LOCATION:Hilde Homestead\, 4955 Avenida Lugo N\, La Grange\, CA 95329
+DESCRIPTION:Bring an entrée and dessert or drink to share\, and a chair 
+ or blanket. End time not listed.
+END:VEVENT
+BEGIN:VEVENT
+UID:yah2-20261102@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261102T170000Z
+DTEND:20261102T180000Z
+SUMMARY:Young At Heart (50+)
+LOCATION:Fireside Hall\, Ceres Seventh-day Adventist Church\, 1633 North 
+ Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Young At Heart\, ages 50+.
+END:VEVENT
+BEGIN:VEVENT
+UID:acts3-20261103@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261104T023000Z
+DTEND:20261104T033000Z
+SUMMARY:Acts of the Apostles Study (Zoom)
+LOCATION:Zoom
+DESCRIPTION:Acts of the Apostles study on Zoom. End time not listed.
+END:VEVENT
+BEGIN:VEVENT
+UID:yah4-20261104@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261104T170000Z
+DTEND:20261104T180000Z
+SUMMARY:Young At Heart (50+)
+LOCATION:Fireside Hall\, Ceres Seventh-day Adventist Church\, 1633 North 
+ Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Young At Heart\, ages 50+.
+END:VEVENT
+BEGIN:VEVENT
+UID:path4-20261104@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261105T020000Z
+DTEND:20261105T040000Z
+SUMMARY:Pathfinders
+LOCATION:Fellowship Hall\, Ceres Seventh-day Adventist Church\, 1633 Nort
+ h Central Avenue\, Ceres\, CA 95307
+DESCRIPTION:Pathfinders meeting.
+END:VEVENT
+BEGIN:VEVENT
+UID:prayer4-20261104@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261105T030000Z
+DTEND:20261105T040000Z
+SUMMARY:Prayer & Bible Study
+LOCATION:Youth Room\, Ceres Seventh-day Adventist Church\, 1633 North Cen
+ tral Avenue\, Ceres\, CA 95307
+DESCRIPTION:Prayer and Bible study. End time not listed.
+END:VEVENT
+BEGIN:VEVENT
+UID:acts5-20261105@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261106T023000Z
+DTEND:20261106T033000Z
+SUMMARY:Acts of the Apostles Study (Zoom)
+LOCATION:Zoom
+DESCRIPTION:Acts of the Apostles study on Zoom. End time not listed.
+END:VEVENT
+BEGIN:VEVENT
+UID:sab7-20261107@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T200000Z
+SUMMARY:Sabbath Worship · Speaker Jay Cook
+LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\,
+  Ceres\, CA 95307
+DESCRIPTION:Worship service 11:00am (Sabbath School 9:30am). Speaker: Jay
+  Cook. Deacon: Steve Perkins. Loose offering: Local Church Budget. Sunset
+  4:57pm. End time not listed.
+END:VEVENT
+END:VCALENDAR

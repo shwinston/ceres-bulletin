@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:prayer4-20261104@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261105T030000Z
+DTEND:20261105T040000Z
+SUMMARY:Prayer & Bible Study
+LOCATION:Youth Room\, Ceres Seventh-day Adventist Church\, 1633 North Cen
+ tral Avenue\, Ceres\, CA 95307
+DESCRIPTION:Prayer and Bible study. End time not listed.
+END:VEVENT
+END:VCALENDAR

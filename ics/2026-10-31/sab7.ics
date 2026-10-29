@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:sab7-20261107@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261107T190000Z
+DTEND:20261107T200000Z
+SUMMARY:Sabbath Worship · Speaker Jay Cook
+LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\,
+  Ceres\, CA 95307
+DESCRIPTION:Worship service 11:00am (Sabbath School 9:30am). Speaker: Jay
+  Cook. Deacon: Steve Perkins. Loose offering: Local Church Budget. Sunset
+  4:57pm. End time not listed.
+END:VEVENT
+END:VCALENDAR
