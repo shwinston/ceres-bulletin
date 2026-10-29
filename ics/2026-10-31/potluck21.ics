@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ceres SDA Bulletin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:potluck21-20261121@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Thanksgiving Fellowship Potluck
+LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\,
+  Ceres\, CA 95307
+DESCRIPTION:Ceres Church Monthly Fellowship Potluck\, theme: Thanksgiving
+ . Directly after the service. Please bring a dish and a dessert to share 
+ with our members and guests. Exact start/end times not listed.
+END:VEVENT
+END:VCALENDAR
