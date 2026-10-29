@@ -104,4 +104,48 @@ DESCRIPTION:Worship service 11:00am (Sabbath School 9:30am). Speaker: Jay
   Cook. Deacon: Steve Perkins. Loose offering: Local Church Budget. Sunset
   4:57pm. End time not listed.
 END:VEVENT
+BEGIN:VEVENT
+UID:speed-20261107@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261107T220000Z
+DTEND:20261108T020000Z
+SUMMARY:Speed Fellowshipping (Singles)
+LOCATION:Mountain View Central SDA Church\, Mountain View\, CA
+DESCRIPTION:Central California Conference singles event\, ages 21–65+. 
+ Join the match list (free): form.jotform.com/261811339576059. Questions: 
+ text Karen 559-313-6319.
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-20261108@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261108T200000Z
+DTEND:20261108T230000Z
+SUMMARY:Apple Festival
+DESCRIPTION:Frozen apple pies\, cinnamon rolls\, apple sauce and apple ci
+ der. Pre-order: call Sharlyn 209-968-2270. Location not listed on the fly
+ er.
+END:VEVENT
+BEGIN:VEVENT
+UID:hymnsing-20261114@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:The Great Hymn Sing
+LOCATION:Ceres Seventh-day Adventist Church\, 1633 North Central Avenue\,
+  Ceres\, CA 95307
+DESCRIPTION:CVCA Department of Music with the singers of CVCA and Resonar
+ e Spei Handbell Ensemble. Free and open to the public. End time not liste
+ d.
+END:VEVENT
+BEGIN:VEVENT
+UID:pure-20261114@ceres-bulletin
+DTSTAMP:20261029T170000Z
+DTSTART:20261115T030000Z
+DTEND:20261115T050000Z
+SUMMARY:Pure Imagination: CVCA Class of 2027 Talent Show
+LOCATION:Central Valley Christian Academy Gymnasium
+DESCRIPTION:Doors open 5:45pm\, show begins 7:00pm. Food and snacks for p
+ urchase\, silent auction\, bake sale. Proceeds benefit the Class of 2027.
+  End time not listed.
+END:VEVENT
 END:VCALENDAR
